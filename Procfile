@@ -1,1 +1,1 @@
-worker: java $JAVA_OPTS -cp target/classes:target/dependency/* my.uum.App
+worker: java -Dserver.port=$PORT $JAVA_OPTS -Dkotlin.script.classpath=build/libs/bots-0.0.1-all.jar  -jar build/libs/bots-0.0.1-all.jar
