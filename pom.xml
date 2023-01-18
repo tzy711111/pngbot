@@ -39,7 +39,7 @@
           <programs>
             <program>
               <mainClass>my.uum.App</mainClass>
-              <name>workerBot</name>
+
             </program>
           </programs>
         </configuration>
