@@ -1,0 +1,10 @@
+my\uum\App.class
+my\uum\DatabaseManager.class
+my\uum\PNG_bot.class
+my\uum\InputFormatChecker.class
+my\uum\Room.class
+my\uum\ScheduleDelete.class
+my\uum\SchoolAdmin.class
+my\uum\Booking.class
+my\uum\Users.class
+my\uum\RoomList.class
