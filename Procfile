@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* my.uum.App
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.my.uum.App
