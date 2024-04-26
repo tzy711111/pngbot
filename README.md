@@ -6,14 +6,8 @@ In this day and age, virtual agents, also known as chatbots, are utilized to mak
 
 The additional telegram bot booking system will be a great help for staffs who are not well-versed in using computers while still wanting to make a booking for a room in School of Computing(SOC) without having to physically go to there. This not only saves time for staffs but for ones who manages the booking as well.
 
-
-
 ## Flow Diagram of the requirements
 ![image](https://user-images.githubusercontent.com/80701138/201608693-4214f3a5-8e68-448a-9ce8-4ed0fb33ed03.png)
-
-## User manual for installing your application on Heroku Server
-## User manual/guideline for testing the system
-[User Manual.pdf](https://github.com/STIW3054-A221/group-project-png/files/10442345/User.Manual.pdf)
 
 ## Result/Output
 ## Use Case Diagram
@@ -26,7 +20,6 @@ The additional telegram bot booking system will be a great help for staffs who a
 ## Database Design
 ![image](https://user-images.githubusercontent.com/116187610/211517782-a4b3b0d6-9504-42e6-9829-b451603eb0de.png)
 
-## Youtube Presentation
 ## References (Not less than 20)
 <ol>
 <li>Azamat Ordabekov. (2021). How to Create Telegram Bot in Java. YouTube. Retrieved December 10, 2022, from https://www.youtube.com/watch?v=XjOnp8TVNSQ.</li>
