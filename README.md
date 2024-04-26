@@ -9,7 +9,6 @@ The additional telegram bot booking system will be a great help for staffs who a
 ## Flow Diagram of the requirements
 ![image](https://user-images.githubusercontent.com/80701138/201608693-4214f3a5-8e68-448a-9ce8-4ed0fb33ed03.png)
 
-## Result/Output
 ## Use Case Diagram
 ![image](https://user-images.githubusercontent.com/80701138/213088182-709b99f4-679f-4f61-b8a6-aef319fc87ca.png)
 
